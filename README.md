@@ -1,4 +1,4 @@
-# ICME22-MIRNet
+# MIRNet: A Robust RGBT Tracking Jointly with Multi-Modal Interaction and Refinement(2022 IEEE International Conference on Multimedia and Expo (ICME))
 This is the results of the ICME2022 paper "MIRNet: A Robust RGBT Tracking Jointly with Multi-Modal Interaction and Refinement".
 ![image](pipeline.png)
 
