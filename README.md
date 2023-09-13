@@ -7,14 +7,14 @@ RGBT tracking attempts to design a robust all-weather tracker by integrating the
    <img src="MIR-RGB.gif"  height=240><img src="MIR-T.gif" height=240>
 </div>
 
-## 🌟GTOT and RGBT234 results
-You can download the raw result MIR-rgbt234.zip and MIR-gtot.zip
+## 🌟GTOT , RGBT234 and LasHeR results
+You can download the raw result MIR-rgbt234.zip and MIR-gtot.zip and mir-lasher.zip
 
 **GTOT PR:0.909 SR:0.744**
 **RGBT234 PR:0.816 SR:0.589**
 ![image](result.png) 
-
-## Citation
+**lasher PR:0.462 NPR:0.412 SR:0.354**
+## Citation 
 Please cite this paper in your publications if it helps your research:
 
 ```
